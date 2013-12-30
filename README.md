@@ -1,4 +1,4 @@
-htmlPageClass
-=============
+htmlPage
+=========
 
-PHP class for manipulating html content and tags
+PHP class for manipulating parts of a Web Page
